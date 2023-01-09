@@ -5,8 +5,7 @@
 -🌱 HTML/CSS
 -🌱 Javascript 
 -🌱 Bootstrap 
--🌱 React 
--🌱 Portfolio ... https://qasimakamystery.netlify.app/
+-🌱 React
 - 📫 How to reach me ... https://www.linkedin.com/in/muhammad-qasim10/
 
 ## 🌐Socials
